@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img1">
+        <file>images.jpeg</file>
+        <file>camouflage-pattern-260nw-56800342.webp</file>
+        <file>parada-militara.jpg</file>
+    </qresource>
+</RCC>
